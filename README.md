@@ -28,6 +28,6 @@ Naming Templates
 The middleware class will attempt to load templates using the following
 template name patterns:
 
-  * `djangosite-url-pages/<url>` (exact match)
-  * `djangosite-url-pages/<url>.html` (clean URL for HTML pages)
-  * `djangosite-url-pages/<url>/index.html` (default page for directories)
+  * `django-url-pages/<url>` (exact match)
+  * `django-url-pages/<url>.html` (clean URL for HTML pages)
+  * `django-url-pages/<url>/index.html` (default page for directories)
